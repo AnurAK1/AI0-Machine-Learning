@@ -10,10 +10,10 @@ RMSE is defined
 $$\left({1\N}\sum_{i=1}^n \left(yi-y^i\right)^2 \right)^{1/2}$$
 
 where
-yˆi is the predicted value
-yi is the original value for each instance i.
+###### yˆi is the predicted value
+###### yi is the original value for each instance i.
 
 #### 💡Data Collection
 ##### 🔦Objective: Gather and preprocess the data
-The Data set is gathered from Kaggle skills assesments that was published for assessing the generating prediction with machine learning.The Data set is already cleaned and there are no errors in any of the observations , missing data or data with incorrect values has been already treated and incosistency has been removed.
+The Data set is gathered from Kaggle skills assesments that was published for assessing and generating prediction with machine learning.The Data set is already cleaned and there are no errors in any of the observations , missing data or data with incorrect values has been already treated and incosistency has been removed.
 ##### 🔦Data 
