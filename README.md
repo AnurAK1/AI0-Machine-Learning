@@ -6,9 +6,10 @@ A Machine learning Models are developed from scratch in python for generating th
 Root Mean Squared Error (RMSE)
 The evaluation are done on the root mean squared error. RMSE is defined as:
 
-RMSE=$(1N∑i=1N(yi−yˆi)2)12   $\left( 1\N \sum_{i=1}^n (yi-y^i)^2 \right)^1\2 
+RMSE=$(1N∑i=1N(yi−yˆi)2)12   
+$$\left(1\N\sum_{i=1}^n \left(yi-y^i\right)^2 \right)^1\2$$
 
-where 
+where
 yˆi is the predicted value
 yi is the original value for each instance i.
 
