@@ -15,6 +15,6 @@ where
 
 #### 💡Data collection and cleaning
 ##### 🔦Objective: Gather and preprocess the data
-The Data set is gathered from Kaggle skills assesments that was published for assessing and generating prediction with machine learning.The Data set is already cleaned and there are no errors in any of the observations , missing data or data with incorrect values has been already treated and incosistency has been removed.
+The Data set is gathered from Kaggle, skills assesments that was published for assessing and generating prediction with machine learning.The Data set is already cleaned and there are no errors in any of the observations , missing data or data with incorrect values has been already treated and incosistency has been removed.
 ##### 🔦Data transformation
 The Data set has extreme values with respect to price and it needed to normalize through standardization for reducing the variations in values.
