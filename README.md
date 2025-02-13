@@ -7,7 +7,7 @@ Root Mean Squared Error (RMSE)
 The evaluation are done on the root mean squared error. RMSE is defined as:
 
 RMSE is defined  
-$$\left({1\N}\sum_{i=1}^n \left(yi-y^i\right)^2 \right)^{1/2}$$
+$$\left({1/N}\sum_{i=1}^n \left(yi-y^i\right)^2 \right)^{1/2}$$
 
 where
 ###### yˆi is the predicted value
