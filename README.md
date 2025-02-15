@@ -1,4 +1,4 @@
-# 💡Car price prediction with Machine Learning - An AI project
+# 💡Car price prediction with Machine Learning/AI
 #### 💡Project Objective
 The objective of this project to generate the predictive outcomes of the car price for used vehicle.This project demonstrates my skills in data science and hands-on experience in developing machine learning models.
 
