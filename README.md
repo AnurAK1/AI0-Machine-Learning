@@ -10,7 +10,7 @@ RMSE is defined
 $$\left({1/N}\sum_{i=1}^n \left(yi-y^i\right)^2 \right)^{1/2}$$
 
 where
-###### $\{y^i} is the predicted value
+###### $\{y}^i is the predicted value
 ###### yi is the original value for each instance i.
 
 #### 💡Data collection and cleaning
