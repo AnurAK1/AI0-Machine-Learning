@@ -1,4 +1,4 @@
-# 🤖Car price prediction with Machine Learning/AI
+# 🛸Car price prediction with Machine Learning/AI
 #### 💡Project Objective
 The objective of this project to generate the predictive outcomes of the car price for used vehicle.This project demonstrates my skills in data science and hands-on experience in developing machine learning models.
 
@@ -26,4 +26,7 @@ Created new features for better understanding the data and reducing the complexi
 #### 🤖Machine learning Modeling
 Training various algorithms, including Linear Regression and Decision Trees, to identify the optimal model for car price predictions.
 
-##### Fine-Tuning: Ensuring the best performance of our models involves Adjusting hyperparameters to enhance model accuracy.
+##### Fine-Tuning: Ensuring the best performance of our models, adjusting hyperparameters to enhance model accuracy.
+
+#### Programming Codes and Data files.
+The programming codes and data files are present in the repo to have a deeper understanding of this project. The input files are in csv format with training and testing dataset uploaded seperating in a zip folder named kaggle cohort . In this skill assessment the output data file has been uploaded as predictive data based on ID's for the car that needs car price.
