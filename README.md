@@ -2,7 +2,7 @@
 #### 💡Project Objective
 The objective of this project to generate the predictive outcomes of the car price for used vehicle.This project demonstrates my skills in data science and hands-on experience in developing machine learning models.
 
-A Machine learning Models are developed from scratch in python for generating the prediction of the Car price. The primary package used for this prediction is `scikit-learn` (SKlearn). Re-tuning and optimisation of Algorithms was performed for generating better outcomes.
+A Machine learning Models are developed from scratch in python for generating the prediction of the Car price. The primary package used for this prediction is `scikit-learn` (SKlearn). Fine-tuning and optimisation of Algorithms was performed for generating better outcomes.
 ###### ⚙️Evaluation 
 Root Mean Squared Error (RMSE)
 The evaluation are done on the root mean squared error. RMSE is defined as:
@@ -25,8 +25,5 @@ Created new features for better understanding the data and reducing the complexi
 
 #### 🤖Machine learning Modeling
 Training various algorithms, including Linear Regression and Decision Trees, to identify the optimal model for car price predictions.
-##### Fine-Tuning and Re-Tuning
-Ensuring the best performance of our models involves:
 
-##### Fine-Tuning: Adjusting hyperparameters to enhance model accuracy.
-##### Re-Tuning: Continuously optimizing the model based on new data and performance metrics.
+##### Fine-Tuning: Ensuring the best performance of our models involves Adjusting hyperparameters to enhance model accuracy.
