@@ -5,13 +5,12 @@ A Machine learning Models are developed from scratch in python for generating th
 ###### ⚙️Evaluation 
 Root Mean Squared Error (RMSE)
 The evaluation are done on the root mean squared error. RMSE is defined as:
-
-RMSE is defined  
-$$\left({1/N}\sum_{i=1}^n \left(yi-hat{y}i\right)^2 \right)^{1/2}$$
+ 
+$$\left(\frac{1}{N}\sum_{i=1}^{n} (y_i - \hat{y}_i)^2 \right)^{1/2}$$
 
 where
-###### $\hat{y}i is the predicted value
-###### yi is the original value for each instance i.
+###### $\hat{y}_i$ is the predicted value
+###### $y_i$ is the actual value for each instance $i$
 
 #### 💡Data collection and cleaning
 ##### 🔦Objective: Gather and preprocess the data
