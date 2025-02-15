@@ -19,3 +19,6 @@ The Data set is sourced from Kaggle, specifically from a skills assessment chall
 
 ##### 🔦Data transformation
 The dataset contains extreme values for prices, so standardization is applied to normalize the data and reduce variations.
+
+#### 💡Feature Engineering
+Created new features for better understanding the data and reducing the complexities in the dataset. New features indentified might also help in increasing the performance of the model. Some of the exmaples of features that was created was car model_type(identifies the car model age), changing the transmission to number of cynlinders, Type of tansmission and Engine to HP and Number of liters etc.
