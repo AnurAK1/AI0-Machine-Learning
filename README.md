@@ -28,5 +28,5 @@ Training various algorithms, including Linear Regression and Decision Trees, to 
 ##### Fine-Tuning and Re-Tuning
 Ensuring the best performance of our models involves:
 
-Fine-Tuning: Adjusting hyperparameters to enhance model accuracy.
-Re-Tuning: Continuously optimizing the model based on new data and performance metrics.
+##### Fine-Tuning: Adjusting hyperparameters to enhance model accuracy.
+##### Re-Tuning: Continuously optimizing the model based on new data and performance metrics.
