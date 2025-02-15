@@ -22,3 +22,6 @@ The dataset contains extreme values for prices, so standardization is applied to
 
 #### 💡Feature Engineering
 Created new features for better understanding the data and reducing the complexities in the dataset. New features indentified might also help in increasing the performance of the model. Some of the exmaples of features that was created was car model_type(identifies the car model age), changing the transmission to number of cynlinders, Type of tansmission and Engine to HP and Number of liters etc.
+
+#### 💡Machine learning Modeling
+Various different models algorithms has been trained to find the optimum peformance and generate outcomes for car price. Some of the models include but not limited too are Linear regeression,Decision trees regressors, decision boosting and Hist boosting, baaging and boosting, SVR models and Random Forest.
