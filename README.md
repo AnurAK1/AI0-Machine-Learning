@@ -1,6 +1,6 @@
 # 🛸Car price prediction with Machine Learning/AI
 #### 💡Project Objective
-The objective of this project to generate the predictive outcomes of the car price for used vehicle.This project demonstrates my skills in data science and hands-on experience in developing machine learning models.
+The objective of this project to generate the predictive outcomes of the car price for used vehicle.This project demonstrates my skills in data science and hands-on experience in developing supervised machine learning models.
 
 A Machine learning Models are developed from scratch in python for generating the prediction of the Car price. The primary package used for this prediction is `scikit-learn` (SKlearn). Fine-tuning and optimisation of Algorithms was performed for generating better outcomes.
 ###### ⚙️Evaluation 
